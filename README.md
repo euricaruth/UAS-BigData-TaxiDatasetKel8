@@ -1,5 +1,10 @@
 # UAS Big Data - Kelompok 8
 
+Anggota Kelompok:
+- Daynendra Mahardika (2310511023)
+- Radinda Maulida Putri (2310511010)
+- Eurica Ruth Meilany Nainggolan (2310511006)
+
 ## Analisis Taxi Dataset dengan Algoritma K-Means Clustering
 
 Project ini menggunakan metode K-Means Clustering untuk mengelompokkan data perjalanan taksi berdasarkan karakteristik perjalanan.
